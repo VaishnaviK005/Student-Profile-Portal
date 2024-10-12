@@ -21,6 +21,11 @@ In the Clubs category, details about students clubs, his tenure and position the
 In the Skills category, his soft skills and technical skills are available.
 Similarly categories like projects, achievements,internships and research work provide detailed description about them.
 
+Screens:
+The institute dashboard starts with a screen to view various batch records. This prototype allows you to view batch 2022's records. Next screen displays detailed list students with options to view, edit & delete them. 
+
+Student Dashboard: it starts with login page where wow roll no. And password are entered. Next screen is menu bar for academics and residential details. Next screen is also o9 menu bar for further details. The next screen is main screen for academics and divided into three categories current courses, courses taken and attendance in similar way, each category has a main screen and a further screen with various details.
+
 Additional Features:
 It provides all the details of the students across various domains.
 Each screen after login page has a feature to go to the previous screen, next screen and homepage.Details about every skill,project,inteenship and research experience is provided using the overlay feature at correct positions.
@@ -48,4 +53,9 @@ FIGMA FILE LINK:https://www.figma.com/design/ITalsVcAETAzfz30aQ7Pds/z?node-id=0-
 FIGMA PROTOTYPE LINK:https://www.figma.com/proto/ITalsVcAETAzfz30aQ7Pds/z?node-id=291-272&node-type=frame&t=jqxH9NGU7Wn1XKvW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A108&show-proto-sidebar=1
 
 DEMONSTRATION OF PROTOTYPE:
+
+
+Uploading StudentDashboardPart3.mov…
+
+
 
