@@ -44,5 +44,8 @@ I wanted to add an attendance screen showcasing the student’s attendance by cr
 Difficultoes faced in the completion of task:
 It was great learning an entirely new tool for the first time and using it to create an actual app prototype.It was difficult to understand a few prototyping features and use them.In the Institute portal it was difficult to incorporate horizontal level and vertical level scrolling, since it was not visible even after trying to prototype it a lot of times.Currently,the screen is working but the operation is not that smooth.Due to time constraints I was not able to get it right but it is working.
 
+FIGMA FILE LINK:https://www.figma.com/design/ITalsVcAETAzfz30aQ7Pds/z?node-id=0-1&t=MtOTtpxGWSlk22G7-1
+FIGMA PROTOTYPE LINK:https://www.figma.com/proto/ITalsVcAETAzfz30aQ7Pds/z?node-id=291-272&node-type=frame&t=jqxH9NGU7Wn1XKvW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A108&show-proto-sidebar=1
 
 DEMONSTRATION OF PROTOTYPE:
+
